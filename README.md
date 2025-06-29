@@ -6,7 +6,7 @@ A Python-based AI web application that recommends movies using collaborative fil
 - `app.py`: Flask web app
 - `recommendation_model.py`: Contains the model logic
 - `movies.csv` & `ratings.csv`: Processed datasets
-- `movie_recommender.pkl`: Trained model file
+- `movie_recommender.pkl`: (Here it is 'movie_recommender.rar' file extract it as .pkl file)Trained model file
 - `templates/`: HTML templates
 - `ml-100k/`: Original MovieLens dataset
 - `requirements.txt`: Dependencies
